@@ -1,1 +1,1 @@
-A simple recipe app using vanilla JavaScript
+A simple recipe app using vanilla JavaScript.
